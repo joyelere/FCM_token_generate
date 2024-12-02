@@ -54,13 +54,3 @@ Before you begin, ensure you have the following installed:
    ```bash
    npm run dev
    ```
-
-## Learn More
-
-Explore the documentation to deepen your understanding:
-
-- [React Documentation](https://react.dev/learn): Learn more about building user interfaces with React.
-- [Vite Documentation](https://vitejs.dev/guide/): Discover the features and capabilities of the Vite build tool for modern web development.
-- [Firebase Cloud Messaging (FCM) Documentation](https://firebase.google.com/docs/cloud-messaging): Understand how to implement Firebase Cloud Messaging for push notifications.
-
-To learn more about other Firebase services, visit the [Firebase Documentation](https://firebase.google.com/docs/web/setup). This resource provides comprehensive documentation for all Firebase services, helping you make the most of the Firebase platform in your projects.
