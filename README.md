@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mahmaddz/FCM-token-generator.git
+   git clone https://github.com/joyelere/FCM_token_generate.git
    ```
 
 2. Navigate to the project directory and install dependencies:
